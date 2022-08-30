@@ -11,7 +11,7 @@ const InputPanel = styled.div`
   ${({ theme }) => theme.flexColumnNoWrap}
   position: relative;
   border-radius: 1.25rem;
-  background-color: ${({ theme }) => theme.bg1};
+  background-color: #389fe0;
   z-index: 1;
   width: 100%;
 `;

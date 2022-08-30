@@ -27,8 +27,8 @@ const CurrencySelect = styled.button`
   font-size: 20px;
   font-weight: 500;
   border: none;
-  background-color: ${({ theme }) => theme.bg3};
-  color: ${({ theme }) => theme.text1};
+  background-color: #371ce8;
+  color: #20a730;
   border-radius: 12px;
   outline: none;
   cursor: pointer;
